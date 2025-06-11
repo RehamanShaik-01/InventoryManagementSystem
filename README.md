@@ -86,7 +86,7 @@ InventoryManagementSystem/
 
 ### 🙋 Author
 
-* **Name**: \[Shaik.Rehaman]
+* Name: Shaik.Rehaman
 
 
 
